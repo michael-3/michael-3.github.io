@@ -1,10 +1,7 @@
-@import url(//fonts.googleapis.com/css?family=Open+Sans);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:300);
 @import url(//fonts.googleapis.com/css?family=Prata);
 
 h1 {
         font-family: "Open Sans";
         font-size: 100px;
-        font-style: light;
-        font-variant: light;
-        line-height: 26.4px;
 }
