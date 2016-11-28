@@ -19,7 +19,7 @@ body {
                         rgba(0, 0, 0, 0.85), 
                         rgba(0, 0, 0, 0.85)
                 ),
-                url("background.jpg")
+                url("background.jpg");
         border: 1px solid #979797;
     }
 
