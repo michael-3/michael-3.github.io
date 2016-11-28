@@ -2,6 +2,24 @@
 @import url(//fonts.googleapis.com/css?family=Prata);
 
 h1 {
-        font-family: "Open Sans";
+        font-family: "Open Sans", sans-serif;
         font-size: 100px;
-}
+
+    }
+
+p {
+        font-family: "Prata";
+        font-size: 16px;
+        line-height: 32px;
+    }
+
+body {
+        background: 
+                linear-gradient(
+                        rgba(0, 0, 0, 0.85), 
+                        rgba(0, 0, 0, 0.85)
+                ),
+                url("background.jpg")
+        border: 1px solid #979797;
+    }
+
